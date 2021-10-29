@@ -1,0 +1,10 @@
+__pycache__/
+.vscode
+*.idea
+.venv
+dist
+.energiency.conf
+.data
+.mypy_cache
+.coverage
+.pytest_cache
